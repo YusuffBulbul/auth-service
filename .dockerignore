@@ -1,0 +1,16 @@
+.git/
+.env
+.env.*
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+target/
+*.log
+*.iml
+*.swp
+*~
+mvnw.cmd
+README.md
+HELP.md
